@@ -5,14 +5,14 @@
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>M Summer Vacation</title>
+<title>My Summer Vacation in Myrtle Beach</title>
 <link rel="stylesheet" href="main.css">
 </head>
 
 
 <body>
 
-<h1>My Summer Vacation</h1> 
+<h1>My Summer Vacation in Myrtle Beach</h1> 
 
 <h2>North Myrtle Beach<h2>
 
